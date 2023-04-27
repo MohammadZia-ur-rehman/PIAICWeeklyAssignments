@@ -1,5 +1,3 @@
-## Repository For Weekly Assignment (PIAIC)
-
 ### Assignments (11-March-2023)
 
 -   [*] Explore Array Methods
